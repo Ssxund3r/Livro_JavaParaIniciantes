@@ -13,7 +13,7 @@ public class Example2 {
 		
 		var2 = 1024 / 2;
 		
-		System.out.println("var2 contains var 1 / 2 ");
+		System.out.print("var2 contains var 1 / 2  -> ");
 		System.out.println(var2);
 	}
 }
