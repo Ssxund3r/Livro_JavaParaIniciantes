@@ -1,0 +1,19 @@
+package Capitulo1_FundamentosLinguagemJava;
+/*Este código demonstra uma variável;
+ *Chame este arquivo de Example2.java.*/
+public class Example2 {
+	public static void main(String[] args) {
+		int var1; // esta instrução declara uma variável. [Declara variáveis]
+		int var2; // esta instrução declara outra variável. 
+		
+		var1 = 1024; // esta instrução atribui 1024 a var [Atribui um valor a uma variável]
+		
+		System.out.println("var1 contains " + var1); 
+		System.out.println();
+		
+		var2 = 1024 / 2;
+		
+		System.out.println("var2 contains var 1 / 2 ");
+		System.out.println(var2);
+	}
+}
