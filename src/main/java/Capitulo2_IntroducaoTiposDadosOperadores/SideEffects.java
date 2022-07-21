@@ -2,6 +2,7 @@ package Capitulo2_IntroducaoTiposDadosOperadores;
 
 //Os efeitos colaterais podem ser importantes 
 public class SideEffects {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int i;
 
