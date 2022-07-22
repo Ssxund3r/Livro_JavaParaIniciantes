@@ -10,6 +10,5 @@ public class EmptyTwo {
 			System.out.println("Pass # " + i);
 			i++; //Incrementa a variável de controle de laço
 		}
-
 	}
 }
