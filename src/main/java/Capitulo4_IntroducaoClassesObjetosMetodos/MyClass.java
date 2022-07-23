@@ -9,5 +9,10 @@ public class MyClass {
 	MyClass() {
 		x = 10;
 	}
+	
+	//Este construtor tem um parametro
+	MyClass(int i){
+		x = i;
+	}
 
 }
