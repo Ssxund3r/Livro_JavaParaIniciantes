@@ -17,4 +17,9 @@ public class Vehicle {
 		return mpg * fuelCap;
 	}
 
+	// Calcula o combostível necessário para cobrir uma determinada distância.
+	double fuelNeeded(int miles) {
+		return (double) miles / mpg;
+	}
+
 }
