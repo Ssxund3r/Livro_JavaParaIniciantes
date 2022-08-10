@@ -6,7 +6,7 @@ public class FailSoftArray {
 
 	private int a[]; // referencia ao array
 	private int errVal; // valor a ser retornado se get() falhar
-	private int length; // length é pública
+	int length; // length é pública
 
 	/*
 	 * Constrói o array dados seu tamanho e o valor a ser retornado se get() falhar.
