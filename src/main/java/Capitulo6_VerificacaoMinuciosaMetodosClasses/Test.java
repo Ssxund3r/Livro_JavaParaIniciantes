@@ -8,7 +8,4 @@ public class Test {
 		i += j;
 		j = -j;
 	}
-	
-	
-	
 }
